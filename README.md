@@ -44,7 +44,7 @@ python setup.py install
 ## Running the app
 Clone the git repository into a suitable folder:
 ```sh
-git clone https://github.com/priyanshsaxena/techmeet.git/
+git clone https://github.com/psolanki10/SMA-TechMeet.git
 cd techmeet
 python app.py
 ```
